@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>在kindle上观看ppt的简单方法</title>
+      <link href="/2020/08/25/kindle&amp;ppt/"/>
+      <url>/2020/08/25/kindle&amp;ppt/</url>
+      
+        <content type="html"><![CDATA[<p>转换为pdf之后直接导入kindle，发现横屏浏览体验还可以。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> kindle </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>虞美人·听雨</title>
       <link href="/2020/08/25/poet1/"/>
       <url>/2020/08/25/poet1/</url>
@@ -24,8 +43,8 @@
     
     <entry>
       <title>markdown嵌入视频、音频</title>
-      <link href="/2020/08/25/XXXX/"/>
-      <url>/2020/08/25/XXXX/</url>
+      <link href="/2020/08/25/markdown1/"/>
+      <url>/2020/08/25/markdown1/</url>
       
         <content type="html"><![CDATA[<h3 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ &lt;iframe src=<span class="string">&quot;//player.bilibili.com/player.html?aid=85003244&amp;bvid=BV1G7411k7uN&amp;cid=145345799&amp;page=1&quot;</span> scrolling=<span class="string">&quot;no&quot;</span> border=<span class="string">&quot;0&quot;</span> width=<span class="string">&quot;800px&quot;</span> height=<span class="string">&quot;600px&quot;</span> frameborder=<span class="string">&quot;no&quot;</span> framespacing=<span class="string">&quot;0&quot;</span> allowfullscreen=<span class="string">&quot;true&quot;</span>&gt; &lt;/iframe&gt;</span><br></pre></td></tr></table></figure><iframe src="//player.bilibili.com/player.html?aid=85003244&bvid=BV1G7411k7uN&cid=145345799&page=1" scrolling="no" border="0" width="800px" height="600px" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h3 id="音频"><a href="#音频" class="headerlink" title="音频"></a>音频</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;iframe frameborder=<span class="string">&quot;no&quot;</span> border=<span class="string">&quot;0&quot;</span> marginwidth=<span class="string">&quot;0&quot;</span> marginheight=<span class="string">&quot;0&quot;</span> width=330 height=86 src=<span class="string">&quot;//music.163.com/outchain/player?type=2&amp;id=385965&amp;auto=1&amp;height=66&quot;</span>&gt;&lt;/iframe&gt;</span><br></pre></td></tr></table></figure><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=385965&auto=1&height=66"></iframe><h3 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ &lt;iframe height=100 width=100 src=<span class="string">&quot;https://i0.hdslb.com/bfs/archive/39047c5cca133d93beb3b5a99713ff6eb589341c.gif&quot;</span>&gt;</span><br></pre></td></tr></table></figure><iframe height=100 width=100 src="https://i0.hdslb.com/bfs/archive/39047c5cca133d93beb3b5a99713ff6eb589341c.gif">]]></content>
       
